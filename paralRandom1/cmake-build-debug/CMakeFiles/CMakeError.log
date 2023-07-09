@@ -1,0 +1,74 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_ba56e/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_ba56e.dir/build.make CMakeFiles/cmTC_ba56e.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/share/cmake-3.15.3/Modules/CMakeCCompilerABI.c', needed by 'CMakeFiles/cmTC_ba56e.dir/CMakeCCompilerABI.c.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_ba56e/fast' failed
+gmake: *** [cmTC_ba56e/fast] Error 2
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_ba88e/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_ba88e.dir/build.make CMakeFiles/cmTC_ba88e.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/share/cmake-3.15.3/Modules/CMakeCXXCompilerABI.cpp', needed by 'CMakeFiles/cmTC_ba88e.dir/CMakeCXXCompilerABI.cpp.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_ba88e/fast' failed
+gmake: *** [cmTC_ba88e/fast] Error 2
+
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_5f1e4/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_5f1e4.dir/build.make CMakeFiles/cmTC_5f1e4.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPTryFlag.c', needed by 'CMakeFiles/cmTC_5f1e4.dir/OpenMPTryFlag.c.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_5f1e4/fast' failed
+gmake: *** [cmTC_5f1e4/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_39610/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_39610.dir/build.make CMakeFiles/cmTC_39610.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp', needed by 'CMakeFiles/cmTC_39610.dir/OpenMPTryFlag.cpp.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_39610/fast' failed
+gmake: *** [cmTC_39610/fast] Error 2
+
+
+
+Detecting C OpenMP failed with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_9fb16/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_9fb16.dir/build.make CMakeFiles/cmTC_9fb16.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPTryFlag.c', needed by 'CMakeFiles/cmTC_9fb16.dir/OpenMPTryFlag.c.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_9fb16/fast' failed
+gmake: *** [cmTC_9fb16/fast] Error 2
+
+
+
+Detecting CXX OpenMP failed with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_8143a/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_8143a.dir/build.make CMakeFiles/cmTC_8143a.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp', needed by 'CMakeFiles/cmTC_8143a.dir/OpenMPTryFlag.cpp.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/paralRandom1/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_8143a/fast' failed
+gmake: *** [cmTC_8143a/fast] Error 2
+
+
+

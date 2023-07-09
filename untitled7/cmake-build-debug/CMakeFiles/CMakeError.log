@@ -1,0 +1,26 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/untitled7/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_ef34d/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_ef34d.dir/build.make CMakeFiles/cmTC_ef34d.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/untitled7/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/share/cmake-3.15.3/Modules/CMakeCCompilerABI.c', needed by 'CMakeFiles/cmTC_ef34d.dir/CMakeCCompilerABI.c.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/untitled7/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_ef34d/fast' failed
+gmake: *** [cmTC_ef34d/fast] Error 2
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/untitled7/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_2f612/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_2f612.dir/build.make CMakeFiles/cmTC_2f612.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/untitled7/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/share/cmake-3.15.3/Modules/CMakeCXXCompilerABI.cpp', needed by 'CMakeFiles/cmTC_2f612.dir/CMakeCXXCompilerABI.cpp.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/untitled7/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_2f612/fast' failed
+gmake: *** [cmTC_2f612/fast] Error 2
+
+
+
+

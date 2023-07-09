@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/xan.dir/main.cpp.o CMakeFiles/xan.dir/lib.cpp.o  -o xan.exe -Wl,--out-implib,libxan.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

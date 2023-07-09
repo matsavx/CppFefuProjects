@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/myfiles/MyClionProjects/untitled4/MassageType.h
+iostream
+-
+
+/cygdrive/c/myfiles/MyClionProjects/untitled4/Pack.h
+MassageType.h
+/cygdrive/c/myfiles/MyClionProjects/untitled4/MassageType.h
+iostream
+-
+cstring
+-
+
+/cygdrive/c/myfiles/MyClionProjects/untitled4/main.cpp
+iostream
+-
+bitset
+-
+Pack.h
+/cygdrive/c/myfiles/MyClionProjects/untitled4/Pack.h
+

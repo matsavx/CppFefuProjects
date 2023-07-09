@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/myfiles/MyClionProjects/Noise/PerlinNoise.h
+vector
+-
+
+/cygdrive/c/myfiles/MyClionProjects/Noise/main.cpp
+cmath
+-
+ppm.h
+/cygdrive/c/myfiles/MyClionProjects/Noise/ppm.h
+PerlinNoise.h
+/cygdrive/c/myfiles/MyClionProjects/Noise/PerlinNoise.h
+
+/cygdrive/c/myfiles/MyClionProjects/Noise/ppm.h
+vector
+-
+string
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/TreeBinarySearch.dir/main.cpp.o  -o TreeBinarySearch.exe -Wl,--out-implib,libTreeBinarySearch.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,10 @@
+C:\Users\User\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "\"C:/myfiles/MyClionProjects/фиб/Новая папка\""
+CMake Error: The source directory "/cygdrive/c/myfiles/MyClionProjects/С„РёР±/РќРѕРІР°СЏ РїР°РїРєР°/cmake-build-debug/"/"C:/myfiles/MyClionProjects/С„РёР±/РќРѕРІР°СЏ РїР°РїРєР°/""" does not exist.
+Specify --help for usage, or press the help button on the CMake GUI.
+
+CMake Error:
+  ------------------------------------------------------------------------------------
+  Selected CMake might be incompatible with the Cygwin environment.
+  In order to run on Cygwin, CMake needs to be specially compiled.
+  Please select either CMake bundled with CLion or CMake from the Cygwin installation.
+  ------------------------------------------------------------------------------------

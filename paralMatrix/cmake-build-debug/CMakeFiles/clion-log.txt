@@ -1,0 +1,10 @@
+C:\Users\User\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/myfiles/MyClionProjects/paralMatrix
+CMake Error at /cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/share/cmake-3.15.3/Modules/FindCUDA.cmake:700 (message):
+  Specify CUDA_TOOLKIT_ROOT_DIR
+Call Stack (most recent call first):
+  CMakeLists.txt:8 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/cygdrive/c/myfiles/MyClionProjects/paralMatrix/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/cygdrive/c/myfiles/MyClionProjects/paralMatrix/cmake-build-debug/CMakeFiles/CMakeError.log".

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/fib.dir/main.cpp.o CMakeFiles/fib.dir/lib.cpp.o  -o fib.exe -Wl,--out-implib,libfib.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

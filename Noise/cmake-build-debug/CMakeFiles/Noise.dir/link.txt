@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Noise.dir/main.cpp.o CMakeFiles/Noise.dir/PerlinNoise.cpp.o CMakeFiles/Noise.dir/ppm.cpp.o  -o Noise.exe -Wl,--out-implib,libNoise.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

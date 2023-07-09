@@ -1,0 +1,26 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/LabirintAMGU/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_dc395/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_dc395.dir/build.make CMakeFiles/cmTC_dc395.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/LabirintAMGU/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/share/cmake-3.15.3/Modules/CMakeCCompilerABI.c', needed by 'CMakeFiles/cmTC_dc395.dir/CMakeCCompilerABI.c.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/LabirintAMGU/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_dc395/fast' failed
+gmake: *** [cmTC_dc395/fast] Error 2
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/myfiles/MyClionProjects/LabirintAMGU/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/cygdrive/c/Strawberry/c/bin/gmake.exe cmTC_1e2db/fast && C:/Strawberry/c/bin/gmake -f CMakeFiles/cmTC_1e2db.dir/build.make CMakeFiles/cmTC_1e2db.dir/build
+gmake[1]: Entering directory 'C:/myfiles/MyClionProjects/LabirintAMGU/cmake-build-debug/CMakeFiles/CMakeTmp'
+gmake[1]: *** No rule to make target '/cygdrive/c/Users/User/.CLion2019.3/system/cygwin_cmake/share/cmake-3.15.3/Modules/CMakeCXXCompilerABI.cpp', needed by 'CMakeFiles/cmTC_1e2db.dir/CMakeCXXCompilerABI.cpp.o'.  Stop.
+gmake[1]: Leaving directory 'C:/myfiles/MyClionProjects/LabirintAMGU/cmake-build-debug/CMakeFiles/CMakeTmp'
+makefile:121: recipe for target 'cmTC_1e2db/fast' failed
+gmake: *** [cmTC_1e2db/fast] Error 2
+
+
+
+
